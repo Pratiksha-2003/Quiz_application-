@@ -1,0 +1,80 @@
+{
+  "question": [
+    "Q1. Who developed python programming language ?",
+    "Q2. Which type of the programming does python support ?",
+    "Q3. Is python case sensitive while dealing with identifier?",
+    "Q4. Which of he following is the correct Extension of the python file?",
+    "Q5. Is python code compiled or Interpreted ?",
+    "Q6. All Keywords in python are in?",
+    "Q7. which of the following is used to define a block of code of python language?",
+    "Q8. which keyword is used for function in python language?",
+    "Q9. which of the following character used for single line comment in python?",
+    "Q10.Python supports the creation of anonymous functions at runtime using a construct called?"
+
+  ],
+  "answer": [
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    2,
+    3
+  ],
+  "options": [
+
+    ["Wick Van Rossum",
+      "Rasmus Lerdorf",
+      "Guido Van Rossum",
+      "Niene Stom"
+    ],
+    ["Object Oriented Programming",
+      "Structured Programming",
+      "Functional Programming",
+      "All of the mention above"
+    ],
+    ["No",
+      "Yes",
+      "Machine Dependent",
+      "None of the mention above"
+    ],
+    [".python",
+      ".pl",
+      ".py",
+      ".p"
+    ],
+    ["Python code is both compiled and interpreted",
+      "Python code is neither compiled and interpreted",
+      "Python code is compiled",
+      "Python code is interpreted"
+    ],
+    ["Capitalized",
+      "Lower case",
+      "Upper case",
+      "None of the above"
+    ],
+    ["Indentation",
+      "key",
+      "Brackets",
+      "All of the above"
+    ],
+    ["Function",
+      "def",
+      "Fun",
+      "Define"
+    ],
+    [" // ",
+      " # ",
+      " ! ",
+      " /* "
+    ],
+    ["pi",
+      "anonymous",
+      "lambda",
+      "None of the above"
+    ]
+  ]
+}
